@@ -1,5 +1,5 @@
 # Personal Project
-Here is the final product of the personal project, you may view the code by clicking on main.py
+Here is the final product of the personal project, you may view the code by clicking on `main.py`
 
 The credentials that allow the connection to my account have been removed, so it is *not* possible to run the program without the credentials.
 
